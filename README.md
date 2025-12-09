@@ -31,5 +31,11 @@ Os repositórios buscados são exibidos em uma lista com avatar do dono, nome e 
 
 ---
 
-## 📂 Estrutura do Projeto
+## ✨ Objetivo da atividade
 
+- Praticar:
+    - Chamada de API externa
+    - Manipulação de dados com hooks
+    - uso de AsyncStorage
+    - Componentização e organização do projeto
+    - TypeScript + React Native 
